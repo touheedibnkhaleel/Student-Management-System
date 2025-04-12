@@ -1,0 +1,6 @@
+ID,Name,Subject,Contact,Salary
+T001,Dr. Alan White,Computer Science,123-456-7890,60000
+T002,Prof. Sarah Green,Mathematics,123-456-7891,55000
+T003,Dr. James Black,Physics,123-456-7892,65000
+T004,Prof. Laura Blue,Engineering,123-456-7893,58000
+T005,Dr. Rachel Red,History,123-456-7894,54000

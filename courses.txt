@@ -1,0 +1,7 @@
+Teacher ID,Course ID,Title,Credits
+T001,C001,Introduction to Programming,3
+T002,C002,Calculus I,4
+T003,C003,Quantum Mechanics,4
+T004,C004,Engineering Mathematics,3
+T005,C005,World History,3
+

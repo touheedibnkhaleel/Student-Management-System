@@ -1,0 +1,7 @@
+Room ID,Capacity,Location
+R001,30,Building A
+R002,25,Building B
+R003,40,Building C
+R004,35,Building D
+R005,20,Building E
+

@@ -1,0 +1,8 @@
+ID,Name,Age,Major,GPA
+S001,John Doe,20,Computer Science,3.5
+S002,Jane Smith,22,Mathematics,3.8
+S003,Emily Davis,21,Physics,3.9
+S004,Michael Brown,23,Engineering,3.6
+S005,Sarah Wilson,19,History,3.4
+
+
